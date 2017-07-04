@@ -1,0 +1,38 @@
+﻿<Window x:Class="GuitarClient.AddGuitarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GuitarClient"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Title="Add Guitar" Height="300" Width="300">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <Label Width="150">Make</Label>
+            <TextBox Width="200" Name="Make"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Width="150">Model</Label>
+            <TextBox Width="200" Name="Model"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Width="150">Stock</Label>
+            <TextBox Width="200" Name="Stock" PreviewTextInput="NumberValidation"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Width="150">Year</Label>
+            <TextBox Width="200" Name="Year"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Width="150">Price</Label>
+            <TextBox Width="200" Name="Price" PreviewTextInput="NumberValidation"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Separator Opacity="0" Height="20"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Save" Click="Save_Button_Click"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

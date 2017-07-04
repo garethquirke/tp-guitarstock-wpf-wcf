@@ -1,0 +1,11 @@
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\GuitarSOA.dll.config
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\GuitarSOA.dll
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\GuitarSOA.pdb
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\EntityFramework.dll
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\EntityFramework.SqlServer.dll
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\EntityFramework.xml
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\bin\EntityFramework.SqlServer.xml
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\obj\Release\GuitarSOA.Migrations.Initial.resources
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\obj\Release\GuitarSOA.csproj.GenerateResource.Cache
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\obj\Release\GuitarSOA.dll
+C:\Users\garet\Documents\Visual Studio 2015\Projects\GarethQuirkeTotalProduce\GuitarSOA\obj\Release\GuitarSOA.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="595b44ab-43e9-423a-8e47-ff25bfc0201e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60087/GuitarService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GuitarService.xsd" MetadataType="Schema" ID="06b04408-58d9-431a-a859-9d5137a97119" SourceId="1" SourceUrl="http://localhost:60087/GuitarService.svc?xsd=xsd2" />
+    <MetadataFile FileName="GuitarService1.xsd" MetadataType="Schema" ID="3bb9b226-8d96-4003-a212-564a9c3f30a3" SourceId="1" SourceUrl="http://localhost:60087/GuitarService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GuitarService2.xsd" MetadataType="Schema" ID="1637063a-526f-48e5-90d1-abfd5e858a4e" SourceId="1" SourceUrl="http://localhost:60087/GuitarService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GuitarService.wsdl" MetadataType="Wsdl" ID="f404ca04-d4e9-49ba-a15b-13d8e223b0de" SourceId="1" SourceUrl="http://localhost:60087/GuitarService.svc?wsdl" />
+    <MetadataFile FileName="GuitarService.disco" MetadataType="Disco" ID="07ebd36f-cac1-4b47-bde3-a0b28d581f8c" SourceId="1" SourceUrl="http://localhost:60087/GuitarService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
